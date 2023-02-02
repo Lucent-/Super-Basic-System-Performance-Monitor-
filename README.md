@@ -1,7 +1,7 @@
 # Super-Basic-System-Performance-Monitor-
 Super Basic System Performance Monitor.. Hence the name ;)
 
-# Usage:
+# Here's a breakdown of the script:
 
 The script is a simple PowerShell script that monitors system performance and usage statistics such as CPU usage, memory usage, disk usage, and network bandwidth. The script uses the Get-Counter cmdlet to retrieve performance counter data and display the usage statistics. Here's a breakdown of the script:
 
