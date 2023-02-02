@@ -1,7 +1,9 @@
 # Super-Basic-System-Performance-Monitor-
 Super Basic System Performance Monitor.. Hence the name ;)
 
+## Usage: 
 
+### Navigate to [SystemPerformanceMonitor.ps1](./SystemPerformanceMonitor.ps1) Copy the script and paste it in PowerShell, you will get a prompt asking for confirmation, hit confirm and Voilà :)
 
 ## Here's a breakdown of the script:
 
